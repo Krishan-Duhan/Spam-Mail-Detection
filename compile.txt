@@ -1,0 +1,5 @@
+FOR NAIVE BAYES:
+python3 NaiveBayes.py <Path of spam training files> <Path of ham training files> <Path of test spam files> <Path of ham test files> <stopWords file path> <yes/no to remove stop-words>
+
+FOR LOGISTICS REGRESSION:
+python3 LogReg.py <Path of spam training files> <Path of ham training files> <Path of test spam files> <Path of ham test files> <stopWords file path> <yes/no to remove stop-words>
