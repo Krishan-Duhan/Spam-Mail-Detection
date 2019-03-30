@@ -1,7 +1,7 @@
 # Spam-Mail-Detection
 Text Classification using Naive Bayes & Logistic Regression.
 
- >> Download the  spam/ham  (ham is  not spam)  dataset  availableon  the elearning.  The data set is divided into two sets: training set and test set. The dataset was used in the Metsis et al. paper [1]. Each set has two directories: spam and ham. All files in the spam folders are spam messages and all files in the ham folder are legitimate (non spam) messages.
+ >> Download the  spam/ham  (ham is  not spam)  dataset  available above.  The data set is divided into two sets: training set and test set. The dataset was used in the Metsis et al. paper [1]. Each set has two directories: spam and ham. All files in the spam folders are spam messages and all files in the ham folder are legitimate (non spam) messages.
  
 >> Implement  the  multinomial  Naive  Bayes  algorithm  for  text  classification  described here: http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf(see   Figure   13.2).   Note   that   the algorithm uses add-one Laplace smoothing. Make sure that you do all the calculations in log-scale to avoid underflow. Use your algorithm to learn from the training set and report accuracy on the test set.
 
